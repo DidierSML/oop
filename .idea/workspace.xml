@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Practicing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/ArithmeticOperations.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="ArithmeticOperations">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/ApplyingDiscount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArithmeticOperations">
+  <component name="RunManager" selected="Application.ApplyingDiscount">
+    <configuration name="ApplyingDiscount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.ApplyingDiscount" />
+      <module name="poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.algoritms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArithmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.algoritms.ArithmeticOperations" />
       <module name="poo" />
@@ -89,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfTwoIndexNumbersV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.interviewChallenges.SumOfTwoIndexNumbersV2" />
-      <module name="poo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.interviewChallenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ApplyingDiscount" />
         <item itemvalue="Application.ArithmeticOperations" />
         <item itemvalue="Application.MonthlyPayment" />
         <item itemvalue="Application.KeyboardInput" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.SumOfTwoIndexNumbersV2" />
       </list>
     </recent_temporary>
   </component>
@@ -135,11 +135,19 @@
       <option name="project" value="LOCAL" />
       <updated>1697657860440</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ArithmeticOperations">
+      <created>1697659340991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697659340991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practicing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practicing" />
+    <MESSAGE value="ArithmeticOperations" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArithmeticOperations" />
   </component>
 </project>
