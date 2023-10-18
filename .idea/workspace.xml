@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="ArithmeticOperations">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/ApplyingDiscount.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Applying Discount">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/PercentageOfMalesAndFemales.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +37,10 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ApplyingDiscount">
+  <component name="RunManager" selected="Application.PercentageOfMalesAndFemales">
     <configuration name="ApplyingDiscount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.algoritms.ApplyingDiscount" />
-      <module name="poo" />
+      <module name="oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.algoritms.*" />
@@ -52,7 +53,7 @@
     </configuration>
     <configuration name="ArithmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.algoritms.ArithmeticOperations" />
-      <module name="poo" />
+      <module name="oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.algoritms.*" />
@@ -65,7 +66,7 @@
     </configuration>
     <configuration name="KeyboardInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.arrayChallenges.algoritms.KeyboardInput" />
-      <module name="poo" />
+      <module name="oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.arrayChallenges.algoritms.*" />
@@ -78,7 +79,7 @@
     </configuration>
     <configuration name="MonthlyPayment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.arrayChallenges.algoritms.MonthlyPayment" />
-      <module name="poo" />
+      <module name="oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.arrayChallenges.algoritms.*" />
@@ -89,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.interviewChallenges.ReverseString" />
-      <module name="poo" />
+    <configuration name="PercentageOfMalesAndFemales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.PercentageOfMalesAndFemales" />
+      <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.interviewChallenges.*" />
+          <option name="PATTERN" value="org.example.algoritms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="oop" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PercentageOfMalesAndFemales" />
         <item itemvalue="Application.ApplyingDiscount" />
         <item itemvalue="Application.ArithmeticOperations" />
         <item itemvalue="Application.MonthlyPayment" />
         <item itemvalue="Application.KeyboardInput" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -142,12 +156,20 @@
       <option name="project" value="LOCAL" />
       <updated>1697659340991</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Applying Discount">
+      <created>1697661684154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697661684154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practicing" />
     <MESSAGE value="ArithmeticOperations" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArithmeticOperations" />
+    <MESSAGE value="Applying Discount" />
+    <option name="LAST_COMMIT_MESSAGE" value="Applying Discount" />
   </component>
 </project>
