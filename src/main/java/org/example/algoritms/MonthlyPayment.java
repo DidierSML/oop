@@ -1,4 +1,4 @@
-package org.example.arrayChallenges.algoritms;
+package org.example.algoritms;
 
 import java.util.Scanner;
 
@@ -24,8 +24,6 @@ public class MonthlyPayment {
         int salario = (diasTrabajados * valorDia);
 
         System.out.println("El salario a pagar según los dias laborados es: " + salario);
-
-
 
 
     }

@@ -1,4 +1,4 @@
-package org.example.arrayChallenges.algoritms;
+package org.example.algoritms;
 
 import java.util.Scanner;
 /*
