@@ -6,7 +6,7 @@ import java.util.Scanner;
     En un salon de clase nos piden diseñar un algoritmo que permita
     determinar el porcentaje de varones y el porcentaje de mujeres.
 
-    (datos)
+    (input)
     hombres: 78, mujeres: 43
     total: 121
 

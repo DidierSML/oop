@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Currency Exchange &amp; IVA Exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PercentageOfNotes.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Percentage of Notes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/IncreasingSalary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/ApplyingDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/ApplyingDiscount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/AreaAndVolumeOfACylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/AreaAndVolumeOfACylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/ArithmeticOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/CurrencyExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/CurrencyExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/Iva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/Iva.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/KeyboardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/KeyboardInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/MonthlyPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/MonthlyPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/PercentageOfMalesAndFemales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PercentageOfMalesAndFemales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PercentageOfMalesAndFemales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PercentageOfMalesAndFemales.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PercentageOfNotes">
+  <component name="RunManager" selected="Application.IncreasingSalary">
     <configuration name="AreaAndVolumeOfACylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.AreaAndVolumeOfACylinder" />
       <module name="oop" />
@@ -71,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.Iva" />
+    <configuration name="IncreasingSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.IncreasingSalary" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PercentageOfMalesAndFemales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.PercentageOfMalesAndFemales" />
+    <configuration name="Iva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.Iva" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IncreasingSalary" />
         <item itemvalue="Application.PercentageOfNotes" />
         <item itemvalue="Application.CurrencyExchange" />
         <item itemvalue="Application.Iva" />
         <item itemvalue="Application.AreaAndVolumeOfACylinder" />
-        <item itemvalue="Application.PercentageOfMalesAndFemales" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697743828720</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Percentage of Notes">
+      <created>1697748412477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697748412477</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,6 +196,7 @@
     <MESSAGE value="Area and Volume of a Cylinder" />
     <MESSAGE value="Fixing details" />
     <MESSAGE value="Currency Exchange &amp; IVA Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Currency Exchange &amp; IVA Exercise" />
+    <MESSAGE value="Percentage of Notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Percentage of Notes" />
   </component>
 </project>
