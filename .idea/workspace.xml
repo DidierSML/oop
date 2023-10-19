@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Percentage Of Males And Females">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/AreaAndVolumeOfACircle.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Fixing details">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/Iva.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AreaAndVolumeOfACylinder">
+  <component name="RunManager" selected="Application.CurrencyExchange">
     <configuration name="ApplyingDiscount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.algoritms.ApplyingDiscount" />
       <module name="oop" />
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArithmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.ArithmeticOperations" />
+    <configuration name="CurrencyExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.CurrencyExchange" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonthlyPayment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrayChallenges.algoritms.MonthlyPayment" />
+    <configuration name="Iva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.Iva" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.arrayChallenges.algoritms.*" />
+          <option name="PATTERN" value="org.example.algoritms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="oop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="oop" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CurrencyExchange" />
+        <item itemvalue="Application.Iva" />
         <item itemvalue="Application.AreaAndVolumeOfACylinder" />
         <item itemvalue="Application.PercentageOfMalesAndFemales" />
         <item itemvalue="Application.ApplyingDiscount" />
-        <item itemvalue="Application.ArithmeticOperations" />
-        <item itemvalue="Application.MonthlyPayment" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697670451223</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Area and Volume of a Cylinder">
+      <created>1697673927511</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697673927511</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixing details">
+      <created>1697674024194</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697674024194</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,6 +179,8 @@
     <MESSAGE value="ArithmeticOperations" />
     <MESSAGE value="Applying Discount" />
     <MESSAGE value="Percentage Of Males And Females" />
-    <option name="LAST_COMMIT_MESSAGE" value="Percentage Of Males And Females" />
+    <MESSAGE value="Area and Volume of a Cylinder" />
+    <MESSAGE value="Fixing details" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing details" />
   </component>
 </project>
