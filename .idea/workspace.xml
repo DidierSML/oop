@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Fixing details">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/CurrencyExchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algoritms/Iva.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Currency Exchange &amp; IVA Exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PercentageOfNotes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/ApplyingDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/ApplyingDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/AreaAndVolumeOfACylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/AreaAndVolumeOfACylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/ArithmeticOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/CurrencyExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/CurrencyExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/Iva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/Iva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/KeyboardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/KeyboardInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/MonthlyPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/MonthlyPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/algoritms/PercentageOfMalesAndFemales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PercentageOfMalesAndFemales.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,26 +44,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CurrencyExchange">
-    <configuration name="ApplyingDiscount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.ApplyingDiscount" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.algoritms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PercentageOfNotes">
     <configuration name="AreaAndVolumeOfACylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.AreaAndVolumeOfACylinder" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.AreaAndVolumeOfACylinder" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.algoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,11 +59,11 @@
       </method>
     </configuration>
     <configuration name="CurrencyExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.CurrencyExchange" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.CurrencyExchange" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.algoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,11 +72,11 @@
       </method>
     </configuration>
     <configuration name="Iva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.Iva" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.Iva" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.algoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +85,24 @@
       </method>
     </configuration>
     <configuration name="PercentageOfMalesAndFemales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algoritms.PercentageOfMalesAndFemales" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.PercentageOfMalesAndFemales" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.algoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercentageOfNotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.PercentageOfNotes" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PercentageOfNotes" />
         <item itemvalue="Application.CurrencyExchange" />
         <item itemvalue="Application.Iva" />
         <item itemvalue="Application.AreaAndVolumeOfACylinder" />
         <item itemvalue="Application.PercentageOfMalesAndFemales" />
-        <item itemvalue="Application.ApplyingDiscount" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697674024194</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Currency Exchange &amp; IVA Exercise">
+      <created>1697743828720</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697743828720</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,6 +195,7 @@
     <MESSAGE value="Percentage Of Males And Females" />
     <MESSAGE value="Area and Volume of a Cylinder" />
     <MESSAGE value="Fixing details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing details" />
+    <MESSAGE value="Currency Exchange &amp; IVA Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Currency Exchange &amp; IVA Exercise" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package org.example.algoritms;
+package org.example.alghoritms;
 
 import java.util.Scanner;
 
@@ -13,16 +13,18 @@ public class MonthlyPayment {
 
         Scanner input = new Scanner(System.in);
 
+        //Input(datos de entrada)
         System.out.println("Ingrese el número de días que trabajó: ");
         int diasTrabajados = input.nextInt();
 
-        //input.nextLine();
-
+        //Input(datos de entrada)
         System.out.println("Ingrese el valor a pagar por día:");
         int valorDia = input.nextInt();
 
+        //Process(proceso)
         int salario = (diasTrabajados * valorDia);
 
+        //Output(Salida)
         System.out.println("El salario a pagar según los dias laborados es: " + salario);
 
 
