@@ -23,13 +23,13 @@ public class ArithmeticOperations {
         //Acciones (suma - resta - multiplicación- division)
         int suma = (primerNumero + segundoNumero);
         int resta = (primerNumero - segundoNumero);
-        int multiplicación = (primerNumero * segundoNumero);
+        int multiplicacion = (primerNumero * segundoNumero);
         int division = (primerNumero / segundoNumero);
 
         //Salida (Output)
         System.out.println("Resultados: \nLa suma de los numeros es: " + suma);
         System.out.println("La resta de los numeros es: " + resta);
-        System.out.println("La multiplicacion de los numeros es: " + multiplicación);
+        System.out.println("La multiplicacion de los numeros es: " + multiplicacion);
         System.out.println("La division de los numeros es: " + division);
     }
 }
