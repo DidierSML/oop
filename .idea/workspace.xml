@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Increasing of Salary">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PercentageOfNotes2.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Percentage Of Notes 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PensionContribution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PercentageOfNotes2">
+  <component name="RunManager" selected="Application.PensionContribution">
     <configuration name="CurrencyExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.CurrencyExchange" />
       <module name="oop" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.Iva" />
+    <configuration name="PensionContribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.PensionContribution" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PensionContribution" />
         <item itemvalue="Application.PercentageOfNotes2" />
         <item itemvalue="Application.IncreasingSalary" />
         <item itemvalue="Application.PercentageOfNotes" />
         <item itemvalue="Application.CurrencyExchange" />
-        <item itemvalue="Application.Iva" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697749876064</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Percentage Of Notes 2">
+      <created>1697752306587</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697752306587</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +211,7 @@
     <MESSAGE value="Currency Exchange &amp; IVA Exercise" />
     <MESSAGE value="Percentage of Notes" />
     <MESSAGE value="Increasing of Salary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Increasing of Salary" />
+    <MESSAGE value="Percentage Of Notes 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Percentage Of Notes 2" />
   </component>
 </project>
