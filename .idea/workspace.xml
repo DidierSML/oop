@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Pension Contribution" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Packing -Sequential- algorithms exercises">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesSimples/JustPositiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesSimples/JustPositiveNumbers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +36,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PensionContribution">
-    <configuration name="CurrencyExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.CurrencyExchange" />
+  <component name="RunManager" selected="Application.JustPositiveNumbers">
+    <configuration name="IncreasingSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.IncreasingSalary" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -47,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncreasingSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.IncreasingSalary" />
+    <configuration name="JustPositiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesSimples.JustPositiveNumbers" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.secuenciales.*" />
+          <option name="PATTERN" value="org.example.alghoritms.condicionalesSimples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JustPositiveNumbers" />
         <item itemvalue="Application.PensionContribution" />
         <item itemvalue="Application.PercentageOfNotes2" />
         <item itemvalue="Application.IncreasingSalary" />
         <item itemvalue="Application.PercentageOfNotes" />
-        <item itemvalue="Application.CurrencyExchange" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697761829399</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Packing -Sequential- algorithms exercises">
+      <created>1697850871290</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697850871290</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,6 +227,7 @@
     <MESSAGE value="Increasing of Salary" />
     <MESSAGE value="Percentage Of Notes 2" />
     <MESSAGE value="Pension Contribution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pension Contribution" />
+    <MESSAGE value="Packing -Sequential- algorithms exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Packing -Sequential- algorithms exercises" />
   </component>
 </project>
