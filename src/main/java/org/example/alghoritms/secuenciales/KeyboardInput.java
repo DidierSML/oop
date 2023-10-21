@@ -1,4 +1,4 @@
-package org.example.alghoritms;
+package org.example.alghoritms.secuenciales;
 
 import java.util.Scanner;
 /*

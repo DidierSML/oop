@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Percentage Of Notes 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/PensionContribution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Pension Contribution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,11 +35,11 @@
 }</component>
   <component name="RunManager" selected="Application.PensionContribution">
     <configuration name="CurrencyExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.CurrencyExchange" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.CurrencyExchange" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.secuenciales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,11 +48,11 @@
       </method>
     </configuration>
     <configuration name="IncreasingSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.IncreasingSalary" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.IncreasingSalary" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.secuenciales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +61,11 @@
       </method>
     </configuration>
     <configuration name="PensionContribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.PensionContribution" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.PensionContribution" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.secuenciales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,11 +74,11 @@
       </method>
     </configuration>
     <configuration name="PercentageOfNotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.PercentageOfNotes" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.PercentageOfNotes" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.secuenciales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +87,11 @@
       </method>
     </configuration>
     <configuration name="PercentageOfNotes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.PercentageOfNotes2" />
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.PercentageOfNotes2" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.*" />
+          <option name="PATTERN" value="org.example.alghoritms.secuenciales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697752306587</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Pension Contribution">
+      <created>1697761829399</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697761829399</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,6 +216,7 @@
     <MESSAGE value="Percentage of Notes" />
     <MESSAGE value="Increasing of Salary" />
     <MESSAGE value="Percentage Of Notes 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Percentage Of Notes 2" />
+    <MESSAGE value="Pension Contribution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pension Contribution" />
   </component>
 </project>
