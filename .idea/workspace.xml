@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Packing -Sequential- algorithms exercises">
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Just Print if are Positive Numbers">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesSimples/LegalAge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesSimples/JustPositiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesSimples/JustPositiveNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JustPositiveNumbers">
+  <component name="RunManager" selected="Application.LegalAge">
     <configuration name="IncreasingSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.IncreasingSalary" />
       <module name="oop" />
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PensionContribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.PensionContribution" />
+    <configuration name="LegalAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesSimples.LegalAge" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.secuenciales.*" />
+          <option name="PATTERN" value="org.example.alghoritms.condicionalesSimples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PercentageOfNotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.PercentageOfNotes" />
+    <configuration name="PensionContribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.PensionContribution" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LegalAge" />
         <item itemvalue="Application.JustPositiveNumbers" />
         <item itemvalue="Application.PensionContribution" />
         <item itemvalue="Application.PercentageOfNotes2" />
         <item itemvalue="Application.IncreasingSalary" />
-        <item itemvalue="Application.PercentageOfNotes" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697850871290</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Just Print if are Positive Numbers">
+      <created>1697852141977</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697852141977</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,6 +235,7 @@
     <MESSAGE value="Percentage Of Notes 2" />
     <MESSAGE value="Pension Contribution" />
     <MESSAGE value="Packing -Sequential- algorithms exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Packing -Sequential- algorithms exercises" />
+    <MESSAGE value="Just Print if are Positive Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just Print if are Positive Numbers" />
   </component>
 </project>
