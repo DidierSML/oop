@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Print if Both are Positive Numbers">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesSimples/InterestOnMoney.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Interest On Money">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesSimples/TotalMonthlyPayment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InterestOnMoney">
+  <component name="RunManager" selected="Application.TotalMonthlyPayment">
     <configuration name="AbsenceOfClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesSimples.AbsenceOfClasses" />
       <module name="oop" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LegalAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesSimples.LegalAge" />
+    <configuration name="PositiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesSimples.PositiveNumbers" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesSimples.PositiveNumbers" />
+    <configuration name="TotalMonthlyPayment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesSimples.TotalMonthlyPayment" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TotalMonthlyPayment" />
         <item itemvalue="Application.InterestOnMoney" />
         <item itemvalue="Application.PositiveNumbers" />
         <item itemvalue="Application.AbsenceOfClasses" />
         <item itemvalue="Application.absenceOfClasses" />
-        <item itemvalue="Application.LegalAge" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697933406921</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Interest On Money">
+      <created>1697935569755</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697935569755</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +300,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Absence of Classes over 20%" />
     <MESSAGE value="Print if Both are Positive Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print if Both are Positive Numbers" />
+    <MESSAGE value="Interest On Money" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interest On Money" />
   </component>
 </project>
