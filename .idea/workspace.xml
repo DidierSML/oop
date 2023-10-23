@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Wholesale (Ventas al Por Mayor)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesDobles/BenefitsForStudents.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Benefits for students according final grade">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesDobles/PromotionSupermarket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BenefitsForStudents">
+  <component name="RunManager" selected="Application.PromotionSupermarket">
     <configuration name="BenefitsForStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.BenefitsForStudents" />
       <module name="oop" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnversityGraduate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesSimples.UnversityGraduate" />
+    <configuration name="PromotionSupermarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.PromotionSupermarket" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.condicionalesSimples.*" />
+          <option name="PATTERN" value="org.example.alghoritms.condicionalesDobles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PromotionSupermarket" />
         <item itemvalue="Application.BenefitsForStudents" />
         <item itemvalue="Application.WholeSale" />
         <item itemvalue="Application.BuyingElements" />
         <item itemvalue="Application.MilitarService" />
-        <item itemvalue="Application.UnversityGraduate" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698094013705</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Benefits for students according final grade">
+      <created>1698096645463</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1698096645463</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +348,7 @@
     <MESSAGE value="Militar Service aptitude" />
     <MESSAGE value="Dividing the payment into percentages" />
     <MESSAGE value="Wholesale (Ventas al Por Mayor)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wholesale (Ventas al Por Mayor)" />
+    <MESSAGE value="Benefits for students according final grade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Benefits for students according final grade" />
   </component>
 </project>
