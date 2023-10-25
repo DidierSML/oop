@@ -13,8 +13,10 @@ public class UnversityGraduate {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Programa que lee si un estudiante es egresado de la universidad," +
-                           " \nde serlo, recibira un descuento de 25% en cualquier programa académico.\n");
+        System.out.println("""
+                Programa que lee si un estudiante es egresado de la universidad,\s
+                de serlo, recibira un descuento de 25% en cualquier programa académico.
+                """);
 
         System.out.println("Ingrese el nombre del estudiante:");
         //Input(entrada)
