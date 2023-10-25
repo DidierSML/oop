@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Modifying Exercise University Graduate">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesDobles/WorkDays.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Work days">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesDobles/SalesComission.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WorkDays">
+  <component name="RunManager" selected="Application.SalesComission">
     <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.EvenOrOdd" />
       <module name="oop" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IvaAndDiscount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.IvaAndDiscount" />
+    <configuration name="SalaryAndDiscounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.SalaryAndDiscounts" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalaryAndDiscounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.SalaryAndDiscounts" />
+    <configuration name="SalesComission" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.SalesComission" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SalesComission" />
         <item itemvalue="Application.WorkDays" />
         <item itemvalue="Application.UnversityGraduate" />
         <item itemvalue="Application.SalaryAndDiscounts" />
         <item itemvalue="Application.EvenOrOdd" />
-        <item itemvalue="Application.IvaAndDiscount" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698260010708</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Work days">
+      <created>1698262649552</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1698262649552</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,7 +381,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fixing details" />
     <MESSAGE value="Currency Exchange &amp; IVA Exercise" />
     <MESSAGE value="Percentage of Notes" />
     <MESSAGE value="Increasing of Salary" />
@@ -399,6 +405,7 @@
     <MESSAGE value="Even or Odd" />
     <MESSAGE value="Salary and Discounts" />
     <MESSAGE value="Modifying Exercise University Graduate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifying Exercise University Graduate" />
+    <MESSAGE value="Work days" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work days" />
   </component>
 </project>
