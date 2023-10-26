@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Wheel Shop">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesCompuestos/GradePointAverage.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Grade Point Average">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesCompuestos/EldestOfThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +36,22 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GradePointAverage">
+  <component name="RunManager" selected="Application.EldestOfThree">
     <configuration name="CarRental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.CarRental" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.condicionalesCompuestos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EldestOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.EldestOfThree" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -89,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.WorkDays" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.condicionalesDobles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EldestOfThree" />
         <item itemvalue="Application.GradePointAverage" />
         <item itemvalue="Application.WheelShop" />
         <item itemvalue="Application.CarRental" />
         <item itemvalue="Application.SalesComission" />
-        <item itemvalue="Application.WorkDays" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698333472339</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Grade Point Average">
+      <created>1698338223039</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1698338223039</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Percentage Of Notes 2" />
     <MESSAGE value="Pension Contribution" />
     <MESSAGE value="Packing -Sequential- algorithms exercises" />
     <MESSAGE value="Just Print if are Positive Numbers" />
@@ -427,6 +433,7 @@
     <MESSAGE value="Sales comission" />
     <MESSAGE value="Car Rental" />
     <MESSAGE value="Wheel Shop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wheel Shop" />
+    <MESSAGE value="Grade Point Average" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grade Point Average" />
   </component>
 </project>
