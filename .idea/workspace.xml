@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Screw Test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesCompuestos/BloodTest.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Blood Test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/UntilOneHundred.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,22 +36,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BloodTest">
+  <component name="RunManager" selected="Application.UntilOneHundred">
     <configuration name="BloodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.BloodTest" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.condicionalesCompuestos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EldestOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.EldestOfThree" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -89,6 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UntilOneHundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.UntilOneHundred" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValueOfR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.ValueOfR" />
       <module name="oop" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UntilOneHundred" />
         <item itemvalue="Application.BloodTest" />
         <item itemvalue="Application.ScrewTest" />
         <item itemvalue="Application.ValueOfR" />
         <item itemvalue="Application.SortingNumbers" />
-        <item itemvalue="Application.EldestOfThree" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698352740816</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Blood Test">
+      <created>1698357222737</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1698357222737</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Absence of Classes over 20%" />
     <MESSAGE value="Print if Both are Positive Numbers" />
     <MESSAGE value="Interest On Money" />
@@ -462,6 +468,7 @@
     <MESSAGE value="Ascending, descending and disordered numbers" />
     <MESSAGE value="Value of R" />
     <MESSAGE value="Screw Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Screw Test" />
+    <MESSAGE value="Blood Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blood Test" />
   </component>
 </project>
