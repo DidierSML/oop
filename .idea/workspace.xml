@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Grade Point Average">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesCompuestos/EldestOfThree.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Eldest of three">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesCompuestos/SortingNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EldestOfThree">
+  <component name="RunManager" selected="Application.SortingNumbers">
     <configuration name="CarRental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.CarRental" />
       <module name="oop" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalesComission" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.SalesComission" />
+    <configuration name="SortingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.SortingNumbers" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.condicionalesDobles.*" />
+          <option name="PATTERN" value="org.example.alghoritms.condicionalesCompuestos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortingNumbers" />
         <item itemvalue="Application.EldestOfThree" />
         <item itemvalue="Application.GradePointAverage" />
         <item itemvalue="Application.WheelShop" />
         <item itemvalue="Application.CarRental" />
-        <item itemvalue="Application.SalesComission" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698338223039</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Eldest of three">
+      <created>1698346518964</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1698346518964</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pension Contribution" />
     <MESSAGE value="Packing -Sequential- algorithms exercises" />
     <MESSAGE value="Just Print if are Positive Numbers" />
     <MESSAGE value="Legal of Age: Mayor de edad" />
@@ -434,6 +440,7 @@
     <MESSAGE value="Car Rental" />
     <MESSAGE value="Wheel Shop" />
     <MESSAGE value="Grade Point Average" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grade Point Average" />
+    <MESSAGE value="Eldest of three" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eldest of three" />
   </component>
 </project>
