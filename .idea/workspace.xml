@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Work days">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesDobles/SalesComission.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Sales comission">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesCompuestos/CarRental.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +36,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SalesComission">
-    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.EvenOrOdd" />
+  <component name="RunManager" selected="Application.CarRental">
+    <configuration name="CarRental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.CarRental" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.condicionalesDobles.*" />
+          <option name="PATTERN" value="org.example.alghoritms.condicionalesCompuestos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarRental" />
         <item itemvalue="Application.SalesComission" />
         <item itemvalue="Application.WorkDays" />
         <item itemvalue="Application.UnversityGraduate" />
         <item itemvalue="Application.SalaryAndDiscounts" />
-        <item itemvalue="Application.EvenOrOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698262649552</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Sales comission">
+      <created>1698264696152</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1698264696152</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Currency Exchange &amp; IVA Exercise" />
     <MESSAGE value="Percentage of Notes" />
     <MESSAGE value="Increasing of Salary" />
     <MESSAGE value="Percentage Of Notes 2" />
@@ -406,6 +412,7 @@
     <MESSAGE value="Salary and Discounts" />
     <MESSAGE value="Modifying Exercise University Graduate" />
     <MESSAGE value="Work days" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work days" />
+    <MESSAGE value="Sales comission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sales comission" />
   </component>
 </project>
