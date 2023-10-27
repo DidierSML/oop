@@ -21,6 +21,7 @@ public class Serie {
         int suma = 0;
 
         while (serie <= numeroFinal){
+            System.out.println(serie);
             suma = suma + serie;
             serie = serie + 2;
         }

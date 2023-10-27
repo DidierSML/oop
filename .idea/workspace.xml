@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="S to Continue">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Serie From 0 to X number and printing of the sum of its even numbers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,13 +117,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Practicing">
-      <created>1697657689627</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1697657689627</updated>
     </task>
     <task id="LOCAL-00002" summary="Practicing">
       <created>1697657860440</created>
@@ -464,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698425894660</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Serie From 0 to X number and printing of the sum of its even numbers">
+      <created>1698440530909</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1698440530910</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="University Benefits for Graduate students" />
     <MESSAGE value="Militar Service aptitude" />
     <MESSAGE value="Dividing the payment into percentages" />
     <MESSAGE value="Wholesale (Ventas al Por Mayor)" />
@@ -504,6 +500,7 @@
     <MESSAGE value="Average of positive numbers" />
     <MESSAGE value="Print Even Numbers" />
     <MESSAGE value="S to Continue" />
-    <option name="LAST_COMMIT_MESSAGE" value="S to Continue" />
+    <MESSAGE value="Serie From 0 to X number and printing of the sum of its even numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Serie From 0 to X number and printing of the sum of its even numbers" />
   </component>
 </project>
