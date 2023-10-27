@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="S to Continue">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/PrintOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/Serie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintOddNumbers">
+  <component name="RunManager" selected="Application.Serie">
     <configuration name="AverageNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.AverageNumbers" />
       <module name="oop" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UntilOneHundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.UntilOneHundred" />
+    <configuration name="Serie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.Serie" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Serie" />
         <item itemvalue="Application.PrintOddNumbers" />
         <item itemvalue="Application.PushingSToContinue" />
         <item itemvalue="Application.PrintEvenNumber" />
         <item itemvalue="Application.AverageNumbers" />
-        <item itemvalue="Application.UntilOneHundred" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698423840497</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="S to Continue">
+      <created>1698425894660</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1698425894660</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
