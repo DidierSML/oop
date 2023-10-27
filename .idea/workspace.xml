@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Fromo 100 to 0">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/AverageNumbers.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Average of positive numbers">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/PrintEvenNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AverageNumbers">
+  <component name="RunManager" selected="Application.PrintEvenNumber">
     <configuration name="AverageNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.AverageNumbers" />
       <module name="oop" />
@@ -56,6 +56,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.alghoritms.condicionalesCompuestos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.PrintEvenNumber" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueOfR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesCompuestos.ValueOfR" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.condicionalesCompuestos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintEvenNumber" />
         <item itemvalue="Application.AverageNumbers" />
         <item itemvalue="Application.UntilOneHundred" />
         <item itemvalue="Application.BloodTest" />
         <item itemvalue="Application.ScrewTest" />
-        <item itemvalue="Application.ValueOfR" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698363014332</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Average of positive numbers">
+      <created>1698419648628</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1698419648628</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +458,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Print if Both are Positive Numbers" />
     <MESSAGE value="Interest On Money" />
     <MESSAGE value="Total Monthly Payment + subsidio" />
     <MESSAGE value="University Benefits for Graduate students" />
@@ -476,6 +482,7 @@
     <MESSAGE value="Screw Test" />
     <MESSAGE value="Blood Test" />
     <MESSAGE value="Fromo 100 to 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fromo 100 to 0" />
+    <MESSAGE value="Average of positive numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Average of positive numbers" />
   </component>
 </project>
