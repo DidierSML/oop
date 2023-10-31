@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Serie From 0 to X number and printing of the sum of its even numbers">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/PrintNaturalNumbers.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Counting and printing numbers from (x) and (y) (both enter by keyboard)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/SeveralStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,20 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintNaturalNumbers">
-    <configuration name="PrintEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.PrintEvenNumber" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SeveralStatements">
     <configuration name="PrintNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.PrintNaturalNumbers" />
       <module name="oop" />
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeveralStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.SeveralStatements" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeveralStatements" />
         <item itemvalue="Application.PrintNaturalNumbers" />
         <item itemvalue="Application.Serie" />
         <item itemvalue="Application.PrintOddNumbers" />
         <item itemvalue="Application.PushingSToContinue" />
-        <item itemvalue="Application.PrintEvenNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00003" summary="ArithmeticOperations">
-      <created>1697659340991</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1697659340991</updated>
     </task>
     <task id="LOCAL-00004" summary="Applying Discount">
       <created>1697661684154</created>
@@ -464,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698440603973</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Counting and printing numbers from (x) and (y) (both enter by keyboard)">
+      <created>1698442332049</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1698442332049</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Militar Service aptitude" />
     <MESSAGE value="Dividing the payment into percentages" />
     <MESSAGE value="Wholesale (Ventas al Por Mayor)" />
     <MESSAGE value="Benefits for students according final grade" />
@@ -504,6 +503,7 @@
     <MESSAGE value="Print Even Numbers" />
     <MESSAGE value="S to Continue" />
     <MESSAGE value="Serie From 0 to X number and printing of the sum of its even numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Serie From 0 to X number and printing of the sum of its even numbers" />
+    <MESSAGE value="Counting and printing numbers from (x) and (y) (both enter by keyboard)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counting and printing numbers from (x) and (y) (both enter by keyboard)" />
   </component>
 </project>
