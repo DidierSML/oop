@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Calculation where we need to find the summary of all the even and odd numbers between (10 - 100)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/ReverseAddition.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Reverse Addition from X number to 0, considering the number of series established by user">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/FactorialOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/MultiplesOf3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +37,35 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseAddition">
+  <component name="RunManager" selected="Application.MultiplesOf3">
     <configuration name="CalculationOfNumbersFrom1To100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.CalculationOfNumbersFrom1To100" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorialOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.FactorialOfANumber" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplesOf3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.MultiplesOf3" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -63,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.PrintNaturalNumbers" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReverseAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.ReverseAddition" />
       <module name="oop" />
@@ -89,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeveralStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.SeveralStatements" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplesOf3" />
+        <item itemvalue="Application.FactorialOfANumber" />
         <item itemvalue="Application.ReverseAddition" />
         <item itemvalue="Application.CalculationOfNumbersFrom1To100" />
         <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.SeveralStatements" />
-        <item itemvalue="Application.PrintNaturalNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +121,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Currency Exchange &amp; IVA Exercise">
-      <created>1697743828720</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1697743828720</updated>
     </task>
     <task id="LOCAL-00009" summary="Percentage of Notes">
       <created>1697748412477</created>
@@ -464,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698797397485</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Reverse Addition from X number to 0, considering the number of series established by user">
+      <created>1698851961633</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1698851961634</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +480,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Benefits for students according final grade" />
     <MESSAGE value="Promotion in supermarket using a Random Number" />
     <MESSAGE value="Has the student passed or failed the course?" />
     <MESSAGE value="Iva and discount over products" />
@@ -504,6 +504,7 @@
     <MESSAGE value="Counting and printing numbers from (x) and (y) (both enter by keyboard)" />
     <MESSAGE value="Several Statements complying the Condition &quot;S&quot;" />
     <MESSAGE value="Calculation where we need to find the summary of all the even and odd numbers between (10 - 100)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculation where we need to find the summary of all the even and odd numbers between (10 - 100)" />
+    <MESSAGE value="Reverse Addition from X number to 0, considering the number of series established by user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse Addition from X number to 0, considering the number of series established by user" />
   </component>
 </project>
