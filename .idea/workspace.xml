@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Factorial of a number &amp; Multiples of 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/LargestAndSmallestNumber.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Largest &amp; smallest number of a series of 5 numbers entered by keyboard">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/EmployeesOfACompany.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +36,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LargestAndSmallestNumber">
-    <configuration name="CalculationOfNumbersFrom1To100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.CalculationOfNumbersFrom1To100" />
+  <component name="RunManager" selected="Application.EmployeesOfACompany">
+    <configuration name="EmployeesOfACompany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.EmployeesOfACompany" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeesOfACompany" />
         <item itemvalue="Application.LargestAndSmallestNumber" />
         <item itemvalue="Application.MultiplesOf3" />
         <item itemvalue="Application.FactorialOfANumber" />
         <item itemvalue="Application.ReverseAddition" />
-        <item itemvalue="Application.CalculationOfNumbersFrom1To100" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Increasing of Salary">
-      <created>1697749876064</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1697749876064</updated>
     </task>
     <task id="LOCAL-00011" summary="Percentage Of Notes 2">
       <created>1697752306587</created>
@@ -464,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698879307359</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Largest &amp; smallest number of a series of 5 numbers entered by keyboard">
+      <created>1698882173499</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1698882173499</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Has the student passed or failed the course?" />
     <MESSAGE value="Iva and discount over products" />
     <MESSAGE value="Even or Odd" />
     <MESSAGE value="Salary and Discounts" />
@@ -504,6 +503,7 @@
     <MESSAGE value="Calculation where we need to find the summary of all the even and odd numbers between (10 - 100)" />
     <MESSAGE value="Reverse Addition from X number to 0, considering the number of series established by user" />
     <MESSAGE value="Factorial of a number &amp; Multiples of 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factorial of a number &amp; Multiples of 3" />
+    <MESSAGE value="Largest &amp; smallest number of a series of 5 numbers entered by keyboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Largest &amp; smallest number of a series of 5 numbers entered by keyboard" />
   </component>
 </project>
