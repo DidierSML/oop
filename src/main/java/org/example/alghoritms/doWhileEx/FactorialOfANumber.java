@@ -2,6 +2,11 @@ package org.example.alghoritms.doWhileEx;
 
 import java.util.Scanner;
 
+
+/*
+    Diseñe un algoritmo que muestre el factorial de un numero
+    ingresado por teclado.
+ */
 public class FactorialOfANumber {
 
     public static void main(String[] args) {
@@ -19,7 +24,7 @@ public class FactorialOfANumber {
             contador++;
         }while(contador <= numero);
 
-        System.out.println(factorial);
+        System.out.println("El factorial de " + numero + " es: " + factorial);
 
         /*
             while(contador <= numero){
