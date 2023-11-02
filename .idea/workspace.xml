@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Employees of a company who earn between 100 - 500">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/DigitalWatch.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Digital watch">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/FactorialOfANumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DigitalWatch">
+  <component name="RunManager" selected="Application.org.example.alghoritms.doWhileEx.FactorialOfANumber">
     <configuration name="DigitalWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.DigitalWatch" />
       <module name="oop" />
@@ -52,19 +52,6 @@
     </configuration>
     <configuration name="EmployeesOfACompany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.EmployeesOfACompany" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.FactorialOfANumber" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.alghoritms.doWhileEx.FactorialOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.FactorialOfANumber" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.alghoritms.doWhileEx.FactorialOfANumber" />
         <item itemvalue="Application.DigitalWatch" />
         <item itemvalue="Application.EmployeesOfACompany" />
         <item itemvalue="Application.LargestAndSmallestNumber" />
         <item itemvalue="Application.MultiplesOf3" />
-        <item itemvalue="Application.FactorialOfANumber" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Pension Contribution">
-      <created>1697761829399</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1697761829399</updated>
     </task>
     <task id="LOCAL-00013" summary="Packing -Sequential- algorithms exercises">
       <created>1697850871290</created>
@@ -464,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698938068853</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Digital watch">
+      <created>1698959023387</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1698959023387</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Even or Odd" />
     <MESSAGE value="Salary and Discounts" />
     <MESSAGE value="Modifying Exercise University Graduate" />
     <MESSAGE value="Work days" />
@@ -504,6 +503,7 @@
     <MESSAGE value="Factorial of a number &amp; Multiples of 3" />
     <MESSAGE value="Largest &amp; smallest number of a series of 5 numbers entered by keyboard" />
     <MESSAGE value="Employees of a company who earn between 100 - 500" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employees of a company who earn between 100 - 500" />
+    <MESSAGE value="Digital watch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Digital watch" />
   </component>
 </project>
