@@ -1,4 +1,4 @@
-package org.example.alghoritms.condicionalesSimples;
+package org.example.alghoritms.doWhileEx;
 
 /*
     Diseñe un algoritmo que muestre la sumatoria de los digitos hasta x numero.
