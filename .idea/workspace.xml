@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Quotient &amp; Remainder using While and Do While">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/SetOfNaturalNumbersByRank.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Set of numbers between a specific range of age using While &amp; do While">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/AverageOfEvenAndOddNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConjuntoDeNumerosPorRango">
+  <component name="RunManager" selected="Application.AverageOfEvenAndOddNumbers">
+    <configuration name="AverageOfEvenAndOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.AverageOfEvenAndOddNumbers" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConjuntoDeNumerosPorRango" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.ConjuntoDeNumerosPorRango" />
       <module name="oop" />
@@ -89,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.alghoritms.doWhileEx.FactorialOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.FactorialOfANumber" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AverageOfEvenAndOddNumbers" />
         <item itemvalue="Application.ConjuntoDeNumerosPorRango" />
         <item itemvalue="Application.SetOfNaturalNumbersByRank" />
         <item itemvalue="Application.QuotientAndRemainder" />
         <item itemvalue="Application.SumOfTheFirst100Digits" />
-        <item itemvalue="Application.org.example.alghoritms.doWhileEx.FactorialOfANumber" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Absence of Classes over 20%">
-      <created>1697931016849</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1697931016849</updated>
     </task>
     <task id="LOCAL-00017" summary="Absence of Classes over 20%">
       <created>1697931104060</created>
@@ -464,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698965740927</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Set of numbers between a specific range of age using While &amp; do While">
+      <created>1698968403870</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1698968403870</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sales comission" />
     <MESSAGE value="Car Rental" />
     <MESSAGE value="Wheel Shop" />
     <MESSAGE value="Grade Point Average" />
@@ -504,6 +503,7 @@
     <MESSAGE value="Factorial of a Number using - do while-" />
     <MESSAGE value="Summary of Digits from 0 to 100" />
     <MESSAGE value="Quotient &amp; Remainder using While and Do While" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quotient &amp; Remainder using While and Do While" />
+    <MESSAGE value="Set of numbers between a specific range of age using While &amp; do While" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set of numbers between a specific range of age using While &amp; do While" />
   </component>
 </project>
