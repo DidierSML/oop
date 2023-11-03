@@ -38,12 +38,83 @@ public class AverageOfEvenAndOddNumbers {
 
         }while (contador <= cantidad);
 
-        int promedioPares = (sumaPares / pares);
-        int promedioImpares = (sumaImpares / impares);
+        System.out.println("Total numeros pares: " + pares);
+        System.out.println("Total numeros impares: " + impares);
 
-        System.out.println("Promedio numero pares ingresados: " + promedioPares);
-        System.out.println("Total numeros pares contados: " + pares);
-        System.out.println("Promedio numero pares ingresados: " + promedioImpares);
-        System.out.println("Total numeros pares contados: " + impares);
+        if (pares == 0){
+            System.out.println("Promedio numeros pares NO se puede realizar (division x cero)");
+        }else{
+            int promedioPares = (sumaPares/pares);
+            System.out.println("Promedio numeros pares: " + promedioPares);
+        }
+
+
+        if (impares == 0){
+            System.out.println("Promedio numeros impares NO se puede realizar (division x cero)");
+        }else{
+            int promedioImpares = (sumaImpares/impares);
+            System.out.println("Promedio numeros impares: " + promedioImpares);
+        }
+
     }
+}
+
+/*
+    Diseñe un algoritmo que permita ingresar 10 números por
+    teclado y que permita calcular la media de números pares
+    e impares.
+ */
+class PromedioYSumaDeNumerosParesEImpares {
+
+
+    public static void main(String[] args) {
+
+
+        int contador = 1;
+        int pares = 0;
+        int impares = 0;
+        int sumaPares = 0;
+        int sumaImpares = 0;
+
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Ingrese la cantidad de numeros a evaluar: ");
+        int cantidad = input.nextInt();
+
+        while (contador <= cantidad){
+
+            System.out.println("Ingrese un numero: ");
+            int numero = input.nextInt();
+
+            if(numero % 2 == 0){
+                sumaPares = sumaPares + numero;
+                pares++;
+            }else{
+                sumaImpares = sumaImpares + numero;
+                impares++;
+            }
+
+            contador++;
+        }
+
+        System.out.println("Total numeros pares: " + pares);
+        System.out.println("Total numeros impares: " + impares);
+
+        if (pares == 0){
+            System.out.println("Promedio numeros pares NO se puede realizar (division x cero)");
+        }else{
+            int promedioPares = (sumaPares/pares);
+            System.out.println("Promedio numeros pares: " + promedioPares);
+        }
+
+        if (impares == 0){
+            System.out.println("Promedio numeros impares NO se puede realizar (division x cero)");
+        }else{
+            int promedioImpares = (sumaImpares/impares);
+            System.out.println("Promedio numeros impares: " + promedioImpares);
+        }
+
+    }
+
+
 }
