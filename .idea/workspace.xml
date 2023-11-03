@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Summary and Average of a quantity of numbers entered by keyboard, grouping them by Even and Odd numbers">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/GallonsToLiters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/AverageOfEvenAndOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/AverageOfEvenAndOddNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AverageOfEvenAndOddNumbers">
+  <component name="RunManager" selected="Application.ConversionDeGalonesALitros">
     <configuration name="AverageOfEvenAndOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.AverageOfEvenAndOddNumbers" />
       <module name="oop" />
@@ -63,6 +63,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConversionDeGalonesALitros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.ConversionDeGalonesALitros" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GallonsToLiters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.GallonsToLiters" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PromedioYSumaDeNumerosParesEImpares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.PromedioYSumaDeNumerosParesEImpares" />
       <module name="oop" />
@@ -76,39 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuotientAndRemainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.QuotientAndRemainder" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetOfNaturalNumbersByRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.SetOfNaturalNumbersByRank" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversionDeGalonesALitros" />
+        <item itemvalue="Application.GallonsToLiters" />
         <item itemvalue="Application.AverageOfEvenAndOddNumbers" />
         <item itemvalue="Application.PromedioYSumaDeNumerosParesEImpares" />
         <item itemvalue="Application.ConjuntoDeNumerosPorRango" />
-        <item itemvalue="Application.SetOfNaturalNumbersByRank" />
-        <item itemvalue="Application.QuotientAndRemainder" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1697931807198</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1697931807198</updated>
     </task>
     <task id="LOCAL-00019" summary="Absence of Classes over 20%">
       <created>1697932881460</created>
@@ -464,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698969804640</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Summary and Average of a quantity of numbers entered by keyboard, grouping them by Even and Odd numbers">
+      <created>1699021951151</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1699021951151</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
