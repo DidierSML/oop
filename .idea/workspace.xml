@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Conversion of Gallons to Liters">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/QuantityOfPositiveAndNegativeNumbers.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Quantity of Positive and Negative numbers entered by keyboard">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/SummaryOfEvenNumbersBetween0toX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,20 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CantidadDeNumerosPositivosYNegativos">
-    <configuration name="AverageOfEvenAndOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.AverageOfEvenAndOddNumbers" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SumOfEvenNumbersBetween0toX">
     <configuration name="CantidadDeNumerosPositivosYNegativos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.CantidadDeNumerosPositivosYNegativos" />
       <module name="oop" />
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfEvenNumbersBetween0toX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.SumOfEvenNumbersBetween0toX" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfEvenNumbersBetween0toX" />
         <item itemvalue="Application.CantidadDeNumerosPositivosYNegativos" />
         <item itemvalue="Application.QuantityOfPositiveAndNegativeNumbers" />
         <item itemvalue="Application.ConversionDeGalonesALitros" />
         <item itemvalue="Application.GallonsToLiters" />
-        <item itemvalue="Application.AverageOfEvenAndOddNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Print if Both are Positive Numbers">
-      <created>1697933406921</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1697933406921</updated>
     </task>
     <task id="LOCAL-00021" summary="Interest On Money">
       <created>1697935569755</created>
@@ -464,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699023543896</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Quantity of Positive and Negative numbers entered by keyboard">
+      <created>1699024693427</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1699024693427</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Grade Point Average" />
     <MESSAGE value="Eldest of three" />
     <MESSAGE value="Ascending, descending and disordered numbers" />
     <MESSAGE value="Value of R" />
@@ -504,6 +503,7 @@
     <MESSAGE value="Set of numbers between a specific range of age using While &amp; do While" />
     <MESSAGE value="Summary and Average of a quantity of numbers entered by keyboard, grouping them by Even and Odd numbers" />
     <MESSAGE value="Conversion of Gallons to Liters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conversion of Gallons to Liters" />
+    <MESSAGE value="Quantity of Positive and Negative numbers entered by keyboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quantity of Positive and Negative numbers entered by keyboard" />
   </component>
 </project>
