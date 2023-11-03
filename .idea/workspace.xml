@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Average of numbers entered by Keyboard">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/FactorialOfNumbers.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Factorial of a number entered by keyboard between (2 - 12) using for loop">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/PrimeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FactorialOfNumbers">
+  <component name="RunManager" selected="Application.PrimeNumbers">
     <configuration name="AverageOfNumbersEnteredByKeyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.AverageOfNumbersEnteredByKeyboard" />
       <module name="oop" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuantityOfPositiveAndNegativeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.QuantityOfPositiveAndNegativeNumbers" />
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.PrimeNumbers" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
+          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.FactorialOfNumbers" />
         <item itemvalue="Application.AverageOfNumbersEnteredByKeyboard" />
         <item itemvalue="Application.SumOfEvenNumbersBetween0toX" />
         <item itemvalue="Application.CantidadDeNumerosPositivosYNegativos" />
-        <item itemvalue="Application.QuantityOfPositiveAndNegativeNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Dividing the payment into percentages">
-      <created>1698092049072</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1698092049072</updated>
     </task>
     <task id="LOCAL-00026" summary="Wholesale (Ventas al Por Mayor)">
       <created>1698094013705</created>
@@ -464,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699026577424</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Factorial of a number entered by keyboard between (2 - 12) using for loop">
+      <created>1699028170041</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1699028170041</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Value of R" />
     <MESSAGE value="Screw Test" />
     <MESSAGE value="Blood Test" />
     <MESSAGE value="Fromo 100 to 0" />
@@ -504,6 +503,7 @@
     <MESSAGE value="Quantity of Positive and Negative numbers entered by keyboard" />
     <MESSAGE value="Sum of even numbers between 0 to X" />
     <MESSAGE value="Average of numbers entered by Keyboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="Average of numbers entered by Keyboard" />
+    <MESSAGE value="Factorial of a number entered by keyboard between (2 - 12) using for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factorial of a number entered by keyboard between (2 - 12) using for loop" />
   </component>
 </project>
