@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Factorial of a number entered by keyboard between (2 - 12) using for loop">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/PrimeNumbers.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Identifying prime Numbers">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/Raffle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Didier M/IdeaProjects/products"
   }
-}</component>
-  <component name="RunManager" selected="Application.PrimeNumbers">
+}]]></component>
+  <component name="RunManager" selected="Application.Raffle">
     <configuration name="AverageOfNumbersEnteredByKeyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.AverageOfNumbersEnteredByKeyboard" />
       <module name="oop" />
@@ -50,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CantidadDeNumerosPositivosYNegativos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.CantidadDeNumerosPositivosYNegativos" />
+    <configuration name="FactorialOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.FactorialOfNumbers" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
+          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.FactorialOfNumbers" />
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.MultiplicationTable" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfEvenNumbersBetween0toX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.SumOfEvenNumbersBetween0toX" />
+    <configuration name="Raffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.whileExercises.Raffle" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
+          <option name="PATTERN" value="org.example.alghoritms.whileExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Raffle" />
+        <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.FactorialOfNumbers" />
         <item itemvalue="Application.AverageOfNumbersEnteredByKeyboard" />
-        <item itemvalue="Application.SumOfEvenNumbersBetween0toX" />
-        <item itemvalue="Application.CantidadDeNumerosPositivosYNegativos" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Wholesale (Ventas al Por Mayor)">
-      <created>1698094013705</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1698094013705</updated>
     </task>
     <task id="LOCAL-00027" summary="Benefits for students according final grade">
       <created>1698096645463</created>
@@ -464,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699028170041</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Identifying prime Numbers">
+      <created>1699036755715</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1699036755715</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Screw Test" />
     <MESSAGE value="Blood Test" />
     <MESSAGE value="Fromo 100 to 0" />
     <MESSAGE value="Average of positive numbers" />
@@ -504,6 +505,7 @@
     <MESSAGE value="Sum of even numbers between 0 to X" />
     <MESSAGE value="Average of numbers entered by Keyboard" />
     <MESSAGE value="Factorial of a number entered by keyboard between (2 - 12) using for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factorial of a number entered by keyboard between (2 - 12) using for loop" />
+    <MESSAGE value="Identifying prime Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Identifying prime Numbers" />
   </component>
 </project>
