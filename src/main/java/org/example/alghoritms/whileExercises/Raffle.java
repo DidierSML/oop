@@ -6,6 +6,7 @@ import java.util.Scanner;
     Programa que simula una Rifa o Sorteo y que mostrará la palabra
     "Acertaste!" hasta que el usuario ingrese el numero indicado entre 1 y 10.
  */
+
 public class Raffle {
 
     public static void main(String[] args) throws InterruptedException {
@@ -14,7 +15,7 @@ public class Raffle {
 
         //(Constantes)
         int numeroGanador = 6;
-        int numeroParticipante = 0;
+        int numeroParticipante;
 
         System.out.println("Desea participar del sorteo: (S) - (N) ");
         //(Input)
@@ -51,3 +52,4 @@ public class Raffle {
 
     }
 }
+
