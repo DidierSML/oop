@@ -14,7 +14,7 @@ public class Raffle {
 
         Scanner input = new Scanner(System.in);
 
-        int numero=0;
+        int numero;
 
         System.out.println("Desea participar del sorteo (S) (N)");
         String participa = input.nextLine();

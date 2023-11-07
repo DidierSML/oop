@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Raffle Prize">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/Raffle.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Raffle Prize using do while and while loop">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/BasicForWithArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/Raffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/whileExercises/Raffle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/Raffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/doWhileEx/Raffle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +38,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Didier M/IdeaProjects/products&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.alghoritms.doWhileEx.Raffle">
-    <configuration name="FactorialOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.FactorialOfNumbers" />
+  <component name="RunManager" selected="Application.RecibiendoTamanoPorTeclado">
+    <configuration name="BasicForWithArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.BasicForWithArray" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -52,21 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.MultiplicationTable" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.PrimeNumbers" />
+    <configuration name="CargandoVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.CargandoVector" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -91,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecibiendoTamanoPorTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.RecibiendoTamanoPorTeclado" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="org.example.alghoritms.doWhileEx.Raffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.Raffle" />
       <module name="oop" />
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecibiendoTamanoPorTeclado" />
+        <item itemvalue="Application.CargandoVector" />
+        <item itemvalue="Application.BasicForWithArray" />
         <item itemvalue="Application.org.example.alghoritms.doWhileEx.Raffle" />
         <item itemvalue="Application.Raffle" />
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.FactorialOfNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -122,13 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Promotion in supermarket using a Random Number">
-      <created>1698098601915</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1698098601915</updated>
     </task>
     <task id="LOCAL-00029" summary="Has the student passed or failed the course?">
       <created>1698105370763</created>
@@ -466,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699307079074</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Raffle Prize using do while and while loop">
+      <created>1699386369224</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1699386369224</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fromo 100 to 0" />
     <MESSAGE value="Average of positive numbers" />
     <MESSAGE value="Print Even Numbers" />
     <MESSAGE value="S to Continue" />
@@ -506,6 +505,7 @@
     <MESSAGE value="Factorial of a number entered by keyboard between (2 - 12) using for loop" />
     <MESSAGE value="Identifying prime Numbers" />
     <MESSAGE value="Raffle Prize" />
-    <option name="LAST_COMMIT_MESSAGE" value="Raffle Prize" />
+    <MESSAGE value="Raffle Prize using do while and while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Raffle Prize using do while and while loop" />
   </component>
 </project>
