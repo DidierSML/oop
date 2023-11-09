@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Array For Matrices">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/LargestAndSmallerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/excercises/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/excercises/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/ArrayForMatrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/ArrayForMatrices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Didier M/IdeaProjects/products&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AsignacionPorTeclado">
-    <configuration name="ArrayForMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.ArrayForMatrices" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Estudiante">
     <configuration name="AsignacionPorTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.AsignacionPorTeclado" />
       <module name="oop" />
@@ -77,8 +66,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CargandoVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.CargandoVector" />
+    <configuration name="Estudiante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.excercises.Estudiante" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.excercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestAndSmallerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.LargestAndSmallerNumber" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecibiendoTamanoPorTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.RecibiendoTamanoPorTeclado" />
+    <configuration name="Persona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.excercises.Persona" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
+          <option name="PATTERN" value="org.example.excercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Estudiante" />
+        <item itemvalue="Application.Persona" />
+        <item itemvalue="Application.LargestAndSmallerNumber" />
         <item itemvalue="Application.AsignacionPorTeclado" />
         <item itemvalue="Application.AsignandoValoresMatriz" />
-        <item itemvalue="Application.ArrayForMatrices" />
-        <item itemvalue="Application.RecibiendoTamanoPorTeclado" />
-        <item itemvalue="Application.CargandoVector" />
       </list>
     </recent_temporary>
   </component>
@@ -121,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Iva and discount over products">
-      <created>1698107293926</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1698107293926</updated>
     </task>
     <task id="LOCAL-00032" summary="Even or Odd">
       <created>1698107593229</created>
@@ -465,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699393534315</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Array For Matrices">
+      <created>1699478246761</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1699478246761</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
