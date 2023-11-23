@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Array For Matrices">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/forExercises/LargestAndSmallerNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/excercises/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/excercises/Persona.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Estudiante / Persona">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alghoritms/condicionalesDobles/MainTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrayChallenges/RunningSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Didier M/IdeaProjects/products&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Estudiante">
+  <component name="RunManager" selected="Application.AsignacionPorTeclado">
     <configuration name="AsignacionPorTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.AsignacionPorTeclado" />
       <module name="oop" />
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AsignandoValoresMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.AsignandoValoresMatriz" />
+    <configuration name="FactorialOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.doWhileEx.FactorialOfANumber" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
+          <option name="PATTERN" value="org.example.alghoritms.doWhileEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Estudiante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.excercises.Estudiante" />
+    <configuration name="MainTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.condicionalesDobles.MainTests" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.excercises.*" />
+          <option name="PATTERN" value="org.example.alghoritms.condicionalesDobles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestAndSmallerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.LargestAndSmallerNumber" />
+    <configuration name="PercentageOfMalesAndFemales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.secuenciales.PercentageOfMalesAndFemales" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
+          <option name="PATTERN" value="org.example.alghoritms.secuenciales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Persona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.excercises.Persona" />
+    <configuration name="RunningSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrayChallenges.RunningSum" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.excercises.*" />
+          <option name="PATTERN" value="org.example.arrayChallenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Estudiante" />
-        <item itemvalue="Application.Persona" />
-        <item itemvalue="Application.LargestAndSmallerNumber" />
         <item itemvalue="Application.AsignacionPorTeclado" />
-        <item itemvalue="Application.AsignandoValoresMatriz" />
+        <item itemvalue="Application.PercentageOfMalesAndFemales" />
+        <item itemvalue="Application.FactorialOfANumber" />
+        <item itemvalue="Application.MainTests" />
+        <item itemvalue="Application.RunningSum" />
       </list>
     </recent_temporary>
   </component>
@@ -123,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Even or Odd">
-      <created>1698107593229</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1698107593229</updated>
     </task>
     <task id="LOCAL-00033" summary="Salary and Discounts">
       <created>1698108777689</created>
@@ -467,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699478246761</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Estudiante / Persona">
+      <created>1699572681392</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1699572681392</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="S to Continue" />
     <MESSAGE value="Serie From 0 to X number and printing of the sum of its even numbers" />
     <MESSAGE value="Counting and printing numbers from (x) and (y) (both enter by keyboard)" />
     <MESSAGE value="Several Statements complying the Condition &quot;S&quot;" />
@@ -507,6 +506,7 @@
     <MESSAGE value="Raffle Prize using do while and while loop" />
     <MESSAGE value="Array For Vectors" />
     <MESSAGE value="Array For Matrices" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array For Matrices" />
+    <MESSAGE value="Estudiante / Persona" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudiante / Persona" />
   </component>
 </project>
