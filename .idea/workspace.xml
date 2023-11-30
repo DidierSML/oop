@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Generics Collection">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/ArrayList1.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="ArrayList implementations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/ArrayList1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,13 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Work days">
-      <created>1698262649552</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1698262649552</updated>
     </task>
     <task id="LOCAL-00036" summary="Sales comission">
       <created>1698264696152</created>
@@ -466,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701208932376</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="ArrayList implementations">
+      <created>1701381696222</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1701381696223</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Several Statements complying the Condition &quot;S&quot;" />
     <MESSAGE value="Calculation where we need to find the summary of all the even and odd numbers between (10 - 100)" />
     <MESSAGE value="Reverse Addition from X number to 0, considering the number of series established by user" />
     <MESSAGE value="Factorial of a number &amp; Multiples of 3" />
@@ -506,6 +505,7 @@
     <MESSAGE value="Estudiante / Persona" />
     <MESSAGE value="String" />
     <MESSAGE value="Generics Collection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics Collection" />
+    <MESSAGE value="ArrayList implementations" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList implementations" />
   </component>
 </project>
