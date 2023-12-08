@@ -1,4 +1,4 @@
-package org.example.dataStructures;
+package org.example.dataStructures.arrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -38,7 +38,7 @@ public class EliminarProductos {
         return productos;
     }
 
-    //Método para eliminar productos mediante un método Iterador
+    //Método para eliminar productos mediante un método -Iterador-
     private static void eliminarMarcasIterator(List <Productos> productos, List <String> marcas){
 
         //Se crea una ListIterator para poder iterar los productos con los metodos que esta brinda
@@ -49,7 +49,7 @@ public class EliminarProductos {
         }
     }
 
-    //Método para eliminar productos mediante programación funcional
+    //Método para eliminar productos mediante programación funcional - removeIf
     private static void eliminarMarcasStream (List <Productos> productosStream, List <String> marcasStream){
         productosStream.removeIf((productos -> marcasStream.contains(productos.getMarca())));
         productosStream.forEach(System.out::println); //Imprimir lista después de eliminar

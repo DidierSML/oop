@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Using ListIterator in Collection">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/EliminarProductos.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Removing elements of a List using Iterator and Stream">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/arrayList/ArrayList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/EliminarProductos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/arrayList/EliminarProductos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +41,11 @@
 }</component>
   <component name="RunManager" selected="Application.EliminarProductos">
     <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.ArrayList1" />
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.arrayList.ArrayList1" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.*" />
+          <option name="PATTERN" value="org.example.dataStructures.arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +71,7 @@
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.*" />
+          <option name="PATTERN" value="org.example.dataStructures.arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,11 +80,11 @@
       </method>
     </configuration>
     <configuration name="EliminarProductos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.EliminarProductos" />
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.arrayList.EliminarProductos" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.*" />
+          <option name="PATTERN" value="org.example.dataStructures.arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Car Rental">
-      <created>1698289709319</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1698289709319</updated>
     </task>
     <task id="LOCAL-00038" summary="Wheel Shop">
       <created>1698333472339</created>
@@ -466,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701386044776</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Removing elements of a List using Iterator and Stream">
+      <created>1701470053371</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1701470053371</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,7 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reverse Addition from X number to 0, considering the number of series established by user" />
     <MESSAGE value="Factorial of a number &amp; Multiples of 3" />
     <MESSAGE value="Largest &amp; smallest number of a series of 5 numbers entered by keyboard" />
     <MESSAGE value="Employees of a company who earn between 100 - 500" />
@@ -506,6 +506,7 @@
     <MESSAGE value="Generics Collection" />
     <MESSAGE value="ArrayList implementations" />
     <MESSAGE value="Using ListIterator in Collection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using ListIterator in Collection" />
+    <MESSAGE value="Removing elements of a List using Iterator and Stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing elements of a List using Iterator and Stream" />
   </component>
 </project>
