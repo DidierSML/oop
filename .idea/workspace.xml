@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="D.E ArrayList">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/LinkListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/ListaEnlazadaSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/Node.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Internal behavior of LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/storeApp/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/storeApp/InventoryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/storeApp/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,26 +40,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Didier M/IdeaProjects/products&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkListApp">
+  <component name="RunManager" selected="Application.InventoryApp">
     <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.arrayList.ArrayList1" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.dataStructures.arrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AsignacionPorTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.alghoritms.forExercises.AsignacionPorTeclado" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.alghoritms.forExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InventoryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.linkedLists.storeApp.InventoryApp" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dataStructures.linkedLists.storeApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.linkedLists.LinkListApp" />
       <module name="oop" />
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InventoryApp" />
         <item itemvalue="Application.LinkListApp" />
         <item itemvalue="Application.EliminarProductos" />
         <item itemvalue="Application.ArrayList1" />
         <item itemvalue="Application.ColeccionesGenericos" />
-        <item itemvalue="Application.AsignacionPorTeclado" />
       </list>
     </recent_temporary>
   </component>
@@ -124,13 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Grade Point Average">
-      <created>1698338223039</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1698338223039</updated>
     </task>
     <task id="LOCAL-00040" summary="Eldest of three">
       <created>1698346518964</created>
@@ -468,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702072810563</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Internal behavior of LinkedList">
+      <created>1702483364081</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1702483364081</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Largest &amp; smallest number of a series of 5 numbers entered by keyboard" />
     <MESSAGE value="Employees of a company who earn between 100 - 500" />
     <MESSAGE value="Digital watch" />
     <MESSAGE value="Factorial of a Number using - do while-" />
@@ -508,6 +507,7 @@
     <MESSAGE value="Using ListIterator in Collection" />
     <MESSAGE value="Removing elements of a List using Iterator and Stream" />
     <MESSAGE value="D.E ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="D.E ArrayList" />
+    <MESSAGE value="Internal behavior of LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Internal behavior of LinkedList" />
   </component>
 </project>
