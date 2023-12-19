@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Internal behavior of LinkedList">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/storeApp/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/storeApp/InventoryApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/linkedLists/storeApp/Product.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Inventory Menu app">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/RendimientoArrayListVsLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,13 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Eldest of three">
-      <created>1698346518964</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1698346518964</updated>
     </task>
     <task id="LOCAL-00041" summary="Ascending, descending and disordered numbers">
       <created>1698348780027</created>
@@ -468,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702483364081</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Inventory Menu app">
+      <created>1703003653747</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1703003653747</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Employees of a company who earn between 100 - 500" />
     <MESSAGE value="Digital watch" />
     <MESSAGE value="Factorial of a Number using - do while-" />
     <MESSAGE value="Summary of Digits from 0 to 100" />
@@ -508,6 +505,7 @@
     <MESSAGE value="Removing elements of a List using Iterator and Stream" />
     <MESSAGE value="D.E ArrayList" />
     <MESSAGE value="Internal behavior of LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Internal behavior of LinkedList" />
+    <MESSAGE value="Inventory Menu app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inventory Menu app" />
   </component>
 </project>
