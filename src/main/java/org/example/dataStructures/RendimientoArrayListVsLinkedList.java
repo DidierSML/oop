@@ -20,12 +20,12 @@ public class RendimientoArrayListVsLinkedList {
 
         System.out.println("Tiempo invertido en insertar una persona en listaArray (en nanonsegundos:");
         antes = System.nanoTime();//variable tiempo actual en nanosegundos
-        listaArray.add(1000, new Person(10001, "Persona",1001)); //Agregamos un nuevo Objeto - Person - en una posición index (x)
+        listaArray.add(1000000, new Person(10001, "Persona",1001)); //Agregamos un nuevo Objeto - Person - en una posición index (x)
         System.out.println(System.nanoTime()-antes); //Calculamos el tiempo que nos tomó hacer esta acción
 
         System.out.println("Tiempo invertido en insertar una persona en listaLinkedList (en nanonsegundos:");
         antes = System.nanoTime();//variable tiempo actual en nanosegundos
-        listaLinkedList.add(1000, new Person(10001, "Persona",1001)); //Agregamos un nuevo Objeto - Person - en una posición index (x)
+        listaLinkedList.add(1000000, new Person(10001, "Persona",1001)); //Agregamos un nuevo Objeto - Person - en una posición index (x)
         System.out.println(System.nanoTime()-antes); //Calculamos el tiempo que nos tomó hacer esta acción
 
     }
@@ -49,6 +49,14 @@ public class RendimientoArrayListVsLinkedList {
 
 /*
     Nota: Realizando las pruebas podemos notar que en materia de busqueda es más rápido -ArrayList
-          S
+          Sin embargo, si lo que queremos es agilidad al ingresar o remover datos al inicio o al fin
+          de una Lista, LinkedList es más eficiente, pues aunque no es tan rápida en búsqueda, si que lo
+          es reacomodando los nodos simplemente reubicando sus punteros.
+
+          No obstante, cuando la insercion la vamos a hacer mas o menos en la mitad del array, ArrayList se
+          vuelve más eficiente pues no tarda tanto en llegar a dicho indice como lo hace LinkedList que va
+          elemento por elemento.
+
+          Usar alguna de las dos es algo subjetivo
  */
 
