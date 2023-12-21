@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="ViewCollections">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/stacks/PruebaStack.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Prueba Stack">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/queueExamples/QueueExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Didier M/IdeaProjects/products&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PruebaStack">
+  <component name="RunManager" selected="Application.QueueExample">
     <configuration name="InventoryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.linkedLists.storeApp.InventoryApp" />
       <module name="oop" />
@@ -52,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.linkedLists.LinkListApp" />
+    <configuration name="PruebaStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.stacks.PruebaStack" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.linkedLists.*" />
+          <option name="PATTERN" value="org.example.dataStructures.stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PruebaStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.stacks.PruebaStack" />
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.queueExamples.QueueExample" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.stacks.*" />
+          <option name="PATTERN" value="org.example.dataStructures.queueExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueExample" />
         <item itemvalue="Application.PruebaStack" />
         <item itemvalue="Application.ViewCollections" />
         <item itemvalue="Application.RendimientoArrayListVsLinkedList" />
         <item itemvalue="Application.InventoryApp" />
-        <item itemvalue="Application.LinkListApp" />
       </list>
     </recent_temporary>
   </component>
@@ -122,13 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Blood Test">
-      <created>1698357222737</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1698357222737</updated>
     </task>
     <task id="LOCAL-00045" summary="Fromo 100 to 0">
       <created>1698363014332</created>
@@ -466,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703019208479</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Prueba Stack">
+      <created>1703023425695</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1703023425695</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Summary of Digits from 0 to 100" />
     <MESSAGE value="Quotient &amp; Remainder using While and Do While" />
     <MESSAGE value="Set of numbers between a specific range of age using While &amp; do While" />
     <MESSAGE value="Summary and Average of a quantity of numbers entered by keyboard, grouping them by Even and Odd numbers" />
@@ -506,6 +505,7 @@
     <MESSAGE value="Inventory Menu app" />
     <MESSAGE value="Rendimiento ArrayList vs LinkedList" />
     <MESSAGE value="ViewCollections" />
-    <option name="LAST_COMMIT_MESSAGE" value="ViewCollections" />
+    <MESSAGE value="Prueba Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prueba Stack" />
   </component>
 </project>
