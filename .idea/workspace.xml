@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="HashCode implementation">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/maps/MapCommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/maps/MapsExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/StudentApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/StudentApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,35 +39,35 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Didier M/IdeaProjects/emergency-room&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StudentApplication">
+  <component name="RunManager" selected="Application.MapCommonMethods">
+    <configuration name="MapCommonMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.maps.MapCommonMethods" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dataStructures.maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.maps.MapsExamples" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dataStructures.maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.queueExamples.PriorityQueueExample" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.queueExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PruebaStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.stacks.PruebaStack" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.stacks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.queueExamples.QueueExample" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapCommonMethods" />
+        <item itemvalue="Application.MapsExamples" />
         <item itemvalue="Application.StudentApplication" />
         <item itemvalue="Application.StringPriorityQueue" />
         <item itemvalue="Application.PriorityQueueExample" />
-        <item itemvalue="Application.QueueExample" />
-        <item itemvalue="Application.PruebaStack" />
       </list>
     </recent_temporary>
   </component>
@@ -123,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00049" summary="S to Continue">
-      <created>1698425894660</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1698425894660</updated>
     </task>
     <task id="LOCAL-00050" summary="Serie From 0 to X number and printing of the sum of its even numbers">
       <created>1698440530909</created>
@@ -467,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705593553967</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="HashCode implementation">
+      <created>1706195197532</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1706195197533</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
