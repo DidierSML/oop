@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Priority Queue Example">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/StudentApplication.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="HashCode implementation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/StudentApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/hashCodeExample/StudentApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00048" summary="S to Continue">
-      <created>1698423840497</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1698423840497</updated>
     </task>
     <task id="LOCAL-00049" summary="S to Continue">
       <created>1698425894660</created>
@@ -467,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703804575764</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="HashCode implementation">
+      <created>1705593553967</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1705593553967</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Summary and Average of a quantity of numbers entered by keyboard, grouping them by Even and Odd numbers" />
     <MESSAGE value="Conversion of Gallons to Liters" />
     <MESSAGE value="Quantity of Positive and Negative numbers entered by keyboard" />
     <MESSAGE value="Sum of even numbers between 0 to X" />
@@ -507,6 +506,7 @@
     <MESSAGE value="Prueba Stack" />
     <MESSAGE value="Prueba Queue" />
     <MESSAGE value="Priority Queue Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Priority Queue Example" />
+    <MESSAGE value="HashCode implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashCode implementation" />
   </component>
 </project>
