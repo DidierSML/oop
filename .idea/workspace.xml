@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Maps Examples and Common Methods">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/maps/MapIterationWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/maps/enterpriseExcercise/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/maps/enterpriseExcercise/Enterprise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/maps/enterpriseExcercise/EnterpriseApp.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/set/HashSet_LinkedHasSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/set/SetOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/set/TeamAndStudents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Didier M/IdeaProjects/emergency-room&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EnterpriseApp">
+  <component name="RunManager" selected="Application.TeamAndStudents">
     <configuration name="EnterpriseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.maps.enterpriseExcercise.EnterpriseApp" />
       <module name="oop" />
@@ -55,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapCommonMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.maps.MapCommonMethods" />
+    <configuration name="HashSet_LinkedHasSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.set.HashSet_LinkedHasSet" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.maps.*" />
+          <option name="PATTERN" value="org.example.dataStructures.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.maps.MapsExamples" />
+    <configuration name="SetOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.set.SetOperations" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.maps.*" />
+          <option name="PATTERN" value="org.example.dataStructures.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.hashCodeExample.StudentApplication" />
+    <configuration name="TeamAndStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.set.TeamAndStudents" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.hashCodeExample.*" />
+          <option name="PATTERN" value="org.example.dataStructures.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TeamAndStudents" />
+        <item itemvalue="Application.SetOperations" />
+        <item itemvalue="Application.HashSet_LinkedHasSet" />
         <item itemvalue="Application.EnterpriseApp" />
         <item itemvalue="Application.MapIterationWays" />
-        <item itemvalue="Application.MapCommonMethods" />
-        <item itemvalue="Application.MapsExamples" />
-        <item itemvalue="Application.StudentApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -125,13 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Serie From 0 to X number and printing of the sum of its even numbers">
-      <created>1698440603973</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1698440603973</updated>
     </task>
     <task id="LOCAL-00052" summary="Counting and printing numbers from (x) and (y) (both enter by keyboard)">
       <created>1698442332049</created>
@@ -469,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706221479688</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Maps Example - Iteration">
+      <created>1706802448699</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1706802448699</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -484,7 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Quantity of Positive and Negative numbers entered by keyboard" />
     <MESSAGE value="Sum of even numbers between 0 to X" />
     <MESSAGE value="Average of numbers entered by Keyboard" />
     <MESSAGE value="Factorial of a number entered by keyboard between (2 - 12) using for loop" />
@@ -509,6 +507,7 @@
     <MESSAGE value="Priority Queue Example" />
     <MESSAGE value="HashCode implementation" />
     <MESSAGE value="Maps Examples and Common Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maps Examples and Common Methods" />
+    <MESSAGE value="Maps Example - Iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maps Example - Iteration" />
   </component>
 </project>
