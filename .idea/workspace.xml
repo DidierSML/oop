@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="HashSet_LinkedHasSet">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/set/teamAndStudentsApp/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/set/teamAndStudentsApp/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/set/teamAndStudentsApp/TeamsAndStudents.java" afterDir="false" />
+    <list default="true" id="5d7740f1-e295-4a12-a368-57e0a90c9701" name="Changes" comment="Exercises testing set Collection and its methods">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/comparadores/ProbandoComparadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/comparadores/PruebaStudentComparadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/comparadores/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/comparadores/Student2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/set/TeamAndStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/set/TeamAndStudents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +41,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Didier M/IdeaProjects/emergency-room&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TeamAndStudents">
-    <configuration name="EnterpriseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.maps.enterpriseExcercise.EnterpriseApp" />
+  <component name="RunManager" selected="Application.PruebaStudentComparadores">
+    <configuration name="ProbandoComparadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.comparadores.ProbandoComparadores" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.maps.enterpriseExcercise.*" />
+          <option name="PATTERN" value="org.example.dataStructures.comparadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSet_LinkedHasSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.set.HashSet_LinkedHasSet" />
+    <configuration name="PruebaStudentComparadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.comparadores.PruebaStudentComparadores" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructures.set.*" />
+          <option name="PATTERN" value="org.example.dataStructures.comparadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PruebaStudentComparadores" />
+        <item itemvalue="Application.ProbandoComparadores" />
         <item itemvalue="Application.TeamAndStudents" />
         <item itemvalue="Application.TeamsAndStudents" />
         <item itemvalue="Application.SetOperations" />
-        <item itemvalue="Application.HashSet_LinkedHasSet" />
-        <item itemvalue="Application.EnterpriseApp" />
       </list>
     </recent_temporary>
   </component>
@@ -125,13 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693873465997</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Several Statements complying the Condition &quot;S&quot;">
-      <created>1698783386083</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1698783386083</updated>
     </task>
     <task id="LOCAL-00054" summary="Several Statements complying the Condition &quot;S&quot;">
       <created>1698788991129</created>
@@ -469,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706907102032</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Exercises testing set Collection and its methods">
+      <created>1707168120863</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1707168120863</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -484,7 +484,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Average of numbers entered by Keyboard" />
     <MESSAGE value="Factorial of a number entered by keyboard between (2 - 12) using for loop" />
     <MESSAGE value="Identifying prime Numbers" />
     <MESSAGE value="Raffle Prize" />
@@ -509,6 +508,7 @@
     <MESSAGE value="Maps Examples and Common Methods" />
     <MESSAGE value="Maps Example - Iteration" />
     <MESSAGE value="HashSet_LinkedHasSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashSet_LinkedHasSet" />
+    <MESSAGE value="Exercises testing set Collection and its methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises testing set Collection and its methods" />
   </component>
 </project>
